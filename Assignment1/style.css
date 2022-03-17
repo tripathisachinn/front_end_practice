@@ -1,0 +1,52 @@
+/* Image styling using class */
+.image {
+    border: solid black 2px ;
+    border-width: 10px 4px;
+    border-radius: 10px 40px;
+    width: auto;
+    align-items: center;
+    margin-top: 20px;
+    float: right;
+    padding-top: 5px;
+    display: inline-block;
+    
+}
+/* Div styling using id */
+#text {
+    font-family: cursive;
+    border-width: 10px 4px;
+    border-radius: 10px 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: right;
+    margin-right: 10px;
+    background-color: rgb(241, 220, 181) ;
+    border: solid black 2px;
+    padding-left: 0%;
+    display: inline-block;
+    
+}
+/* Header style using class */
+.header {
+    font-family: cursive;
+    font-size: 25px;
+    margin-left: 69%;
+    padding-bottom: 5px;
+}
+/* Para Heading using id */
+#para {
+    font-family: cursive ;
+    border-width: 10px 4px;
+    border-radius: 10px 40px;
+    border: solid black 2px;
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(230, 211, 211);
+
+
+}
+/* footer styling using id */
+.mainFooter {
+    font-family: cursive;
+    text-align: center;
+    
+}

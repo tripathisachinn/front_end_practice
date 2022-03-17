@@ -1,0 +1,38 @@
+.mainHeading {
+    text-align: center;
+    font-family: cursive ;
+    text-shadow: 20px;
+    
+    
+}
+
+.mainFooter {
+    font-family: cursive;
+    font-size: 20px;
+    text-indent: 10px;
+    color: rgb(92, 5, 5);
+}
+.backGround {
+    text-align: center;
+    font-family: cursive;
+    text-decoration-color: solid rgb(14, 216, 14);
+    background-image: url(img.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-decoration-color: solid rgb(233, 63, 63);
+    border-image: 2px;
+    background-image: cross-fade(opacity="20%");
+    color: rgb(172, 10, 10);
+    
+}
+.button {
+    border-radius: 10px 10px;
+    border: solid rgb(240, 211, 211) 5px;
+    color: rgb(92, 5, 5);
+}
+.border {
+    border-radius: 10px 10px;
+    padding: 5px 5px 5px 5px;
+
+}
